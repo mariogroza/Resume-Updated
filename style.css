@@ -1,0 +1,22 @@
+h1,h3{
+    font-family: "Sacramento", cursive;
+}
+p{
+    font-family: "Montserrat", sans-serif;
+}
+#hero{
+    background-color: antiquewhite;
+}
+.features{
+    background-color: antiquewhite;
+}
+.jumbotron{
+    background-color: antiquewhite;
+}
+.eu{
+    border-radius: 50%;
+    outline: 2px solid black;
+}
+.footer{
+    background-color: antiquewhite;
+}
